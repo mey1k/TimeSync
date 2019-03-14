@@ -24,4 +24,4 @@ None
 
 ## Acknowledgments
 
-* Are you need to Time Sync Program?
+* Do you need to Time Sync Program?
